@@ -1,0 +1,25 @@
+{
+    "id": "marsnetwork",
+    "name": "Mars Network",
+    "description": "The modern Minecraft PvP network.",
+    "addresses": [
+        "mars.mc-games.org"
+    ],
+    "primaryAddress": "mars.mc-games.org",
+    "minecraftVersions": [
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.21.11",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
+    "primaryRegion": "EU",
+    "gameTypes": [
+        "PvP",
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/mars-network"
+    },
+    "crossplay": false
+}
